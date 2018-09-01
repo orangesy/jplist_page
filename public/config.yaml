@@ -1,0 +1,7 @@
+baseurl: http://orangesy.github.com/jplist_page
+languageCode: en-us
+title: My New Hugo Site
+
+
+theme: 'hyde'
+...
